@@ -29,6 +29,8 @@ creator:
     gutenberg_agent_id: '2297'
     url: http://www.gutenberg.org/2009/agents/2297
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42458#The-Philippine-Islands-1493-1898--Volume-XXXII-1640--13-Explorations-by-early-navigators-desc_
 gutenberg_issued: '2013-04-01'
 gutenberg_type: Text
 identifiers:
